@@ -7,3 +7,4 @@ mkdir build
 cd build
 cmake .. -DCMAKE_C_COMPILER=gcc-5 -DCMAKE_CXX_COMPILER=g++-5
 make
+../../configure.sh
